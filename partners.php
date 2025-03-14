@@ -217,7 +217,7 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
                     <img src="assets/images/distributor-1.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>Automotion</h5>
+                    <h5></h5>
                 </div>
             </div>
             
