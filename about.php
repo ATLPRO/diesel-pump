@@ -155,12 +155,12 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/staff/IMG-20241218-WA0733.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
-                        <div class="social-links">
+                        <img src="assets/images/staff/boss.png" alt="Team Member" class="img-fluid rounded shadow">
+                        <!-- <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info mt-3">
                         <h4>Pierre Martin</h4>
@@ -171,12 +171,12 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/staff/IMG-20241218-WA0370.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
-                        <div class="social-links">
+                        <img src="assets/images/staff/femme1.png" alt="Team Member" class="img-fluid rounded shadow">
+                       <!--  <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info mt-3">
                         <h4>Sophie Durand</h4>
@@ -187,12 +187,12 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/staff/IMG-20241218-WA0181.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
-                        <div class="social-links">
+                        <img src="assets/images/staff/petit1.png" alt="Team Member" class="img-fluid rounded shadow">
+                        <!-- <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info mt-3">
                         <h4>Jean Dupont</h4>
@@ -203,12 +203,12 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/staff/IMG-20241218-WA0458.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
-                        <div class="social-links">
+                        <img src="assets/images/staff/petit2.png" alt="Team Member" class="img-fluid rounded shadow">
+                       <!--  <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info mt-3">
                         <h4>Marie Lambert</h4>
