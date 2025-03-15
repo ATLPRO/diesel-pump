@@ -76,7 +76,7 @@ include('inc/header.php');
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-1.jpg" alt="Réparation d'Injecteurs" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/FB_IMG_16009444972132081.jpg" alt="Réparation d'Injecteurs" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -108,7 +108,7 @@ include('inc/header.php');
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-2.jpg" alt="Pompes à Injection" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/FB_IMG_16134547414333219.jpg" alt="Pompes à Injection" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -140,7 +140,7 @@ include('inc/header.php');
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-3.jpg" alt="Maintenance Préventive" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/Diesel auto.jpg" alt="Maintenance Préventive" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -172,7 +172,7 @@ include('inc/header.php');
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-4.jpg" alt="Diagnostic Électronique" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/FB_IMG_16505225554164301.jpg" alt="Diagnostic Électronique" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -204,7 +204,7 @@ include('inc/header.php');
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-5.jpg" alt="Vente de Pièces" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/pumpLucas (2).jpg" alt="Vente de Pièces" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -236,7 +236,7 @@ include('inc/header.php');
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service-6.jpg" alt="Formation Technique" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/IMG-20241218-WA0626.jpg" alt="Formation Technique" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-lg-7">

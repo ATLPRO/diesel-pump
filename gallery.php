@@ -8,7 +8,7 @@ include('inc/header.php');
 <?php include('inc/navbar.php'); ?>
 
 <!-- Page Header -->
-<section class="page-header" style="background-image: url('assets/images/gallery-header.jpg');">
+<section class="page-header" style="background-image: url('assets/images/image-de-fond-galerie.jpg');">
     <div class="container">
         <div class="page-title">
             <h1>Galerie & Vidéos</h1>
@@ -44,7 +44,7 @@ include('inc/header.php');
             <!-- Gallery Item 1 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-1.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/Actros1.jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-1.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -55,7 +55,7 @@ include('inc/header.php');
             <!-- Gallery Item 2 -->
             <div class="col-lg-4 col-md-6 gallery-item equipements">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-2.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/FB_IMG_16170200485787889.jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-2.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -66,7 +66,7 @@ include('inc/header.php');
             <!-- Gallery Item 3 -->
             <div class="col-lg-4 col-md-6 gallery-item reparations">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-3.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/IMG-20241218-WA0315.jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-3.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -77,7 +77,7 @@ include('inc/header.php');
             <!-- Gallery Item 4 -->
             <div class="col-lg-4 col-md-6 gallery-item projets">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-4.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/IMG-20241218-WA0782.jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-4.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -88,7 +88,7 @@ include('inc/header.php');
             <!-- Gallery Item 5 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-5.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/InjecteurCatMeui (1).jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-5.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -99,7 +99,7 @@ include('inc/header.php');
             <!-- Gallery Item 6 -->
             <div class="col-lg-4 col-md-6 gallery-item equipements">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-6.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/injecteurCommonRailBosch (22).jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-6.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -110,7 +110,7 @@ include('inc/header.php');
             <!-- Gallery Item 7 -->
             <div class="col-lg-4 col-md-6 gallery-item reparations">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-7.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/Isuzupump.jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-7.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -121,7 +121,7 @@ include('inc/header.php');
             <!-- Gallery Item 8 -->
             <div class="col-lg-4 col-md-6 gallery-item projets">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-8.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/mercedezBenz (17).jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-8.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -132,7 +132,7 @@ include('inc/header.php');
             <!-- Gallery Item 9 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/gallery-9.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/PumpZexel (49).jpg" alt="Gallery Image" class="img-fluid">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-9.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>

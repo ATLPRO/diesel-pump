@@ -8,7 +8,7 @@ include('inc/header.php');
 <?php include('inc/navbar.php'); ?>
 
 <!-- Page Header -->
-<section class="page-header" style="background-image: url('assets/images/about-header.jpg');">
+<section class="page-header" style="background-image: url('assets/images/image-de-fond-apropos.jpg');">
     <div class="container">
         <div class="page-title">
             <h1>À Propos de Nous</h1>
@@ -28,7 +28,7 @@ include('inc/header.php');
         <div class="row align-items-center">
             <div class="col-lg-6" data-aos="fade-right">
                 <div class="about-img position-relative">
-                    <img src="assets/images/about-main.jpg" alt="About Us" class="img-fluid rounded shadow-lg">
+                    <!-- <img src="assets/images/about-main.jpg" alt="About Us" class="img-fluid rounded shadow-lg"> -->
                     <div class="experience">
                         <h3>20+</h3>
                         <p>Années d'expérience</p>
@@ -155,7 +155,7 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/team-1.jpg" alt="Team Member" class="img-fluid rounded shadow">
+                        <img src="assets/images/staff/IMG-20241218-WA0733.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -171,7 +171,7 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/team-2.jpg" alt="Team Member" class="img-fluid rounded shadow">
+                        <img src="assets/images/staff/IMG-20241218-WA0370.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -187,7 +187,7 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/team-3.jpg" alt="Team Member" class="img-fluid rounded shadow">
+                        <img src="assets/images/staff/IMG-20241218-WA0181.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -203,7 +203,7 @@ include('inc/header.php');
             <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
                 <div class="team-member text-center">
                     <div class="member-img">
-                        <img src="assets/images/team-4.jpg" alt="Team Member" class="img-fluid rounded shadow">
+                        <img src="assets/images/staff/IMG-20241218-WA0458.jpg" alt="Team Member" class="img-fluid rounded-circle shadow">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>

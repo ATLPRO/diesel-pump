@@ -1,9 +1,10 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand" href="index.php">
-            <img src="assets/images/logo.png" alt="Diesel Pump Engineering" class="logo">
+        <a class=" navbar-brand" href="index.php">
+            <img src="assets/images/LOGO.png" alt="Diesel Pump Engineering" class="logo">
         </a>
+        <h2 class="h6">Diesel Pump Engineering Co.Ltd.</h2>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" 
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars"></i>

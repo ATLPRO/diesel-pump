@@ -9,7 +9,7 @@
                     </div>
                     <p>Diesel Pump Engineering est spécialisé dans la réparation, la maintenance et la vente de systèmes d'injection pour moteurs diesel et essence.</p>
                     <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://m.me/Diesel-Pump-Engieneering-Co.LTD."><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -22,15 +22,15 @@
                     <div class="contact-details">
                         <div class="single-contact">
                             <i class="fas fa-map-marker-alt"></i>
-                            <p>123 Rue de l'Industrie, 75001 Paris, France</p>
+                            <p>Bafoussam , Carrefour Saint Charles, Cameroun</p>
                         </div>
                         <div class="single-contact">
                             <i class="fas fa-phone-alt"></i>
-                            <p>+33 1 23 45 67 89</p>
+                            <p>+237 679737374 / 694472477</p>
                         </div>
                         <div class="single-contact">
                             <i class="fas fa-envelope"></i>
-                            <p>contact@dieselpumpengineering.com</p>
+                            <p>dieselpumpengeneering@gmail.com</p>
                         </div>
                     </div>
                 </div>

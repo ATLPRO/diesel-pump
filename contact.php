@@ -36,7 +36,7 @@ include('inc/header.php');
                         </div>
                         <div class="info-content">
                             <h5>Notre Adresse</h5>
-                            <p>123 Rue de l'Industrie, 75001 Paris, France</p>
+                            <p>Bafoussam-Cameroun,Carrefour Saint Charles</p>
                         </div>
                     </div>
                     
@@ -46,7 +46,7 @@ include('inc/header.php');
                         </div>
                         <div class="info-content">
                             <h5>Téléphone</h5>
-                            <p>+33 1 23 45 67 89</p>
+                            <p>+237 679737374 / 694472477 / 666787280</p>
                         </div>
                     </div>
                     
@@ -56,7 +56,7 @@ include('inc/header.php');
                         </div>
                         <div class="info-content">
                             <h5>Email</h5>
-                            <p>contact@dieselpumpengineering.com</p>
+                            <p>dieselpumpengeneering@gmail.com</p>
                         </div>
                     </div>
                     
@@ -66,14 +66,14 @@ include('inc/header.php');
                         </div>
                         <div class="info-content">
                             <h5>Heures d'Ouverture</h5>
-                            <p>Lundi - Vendredi: 8h00 - 18h00<br>Samedi: 9h00 - 13h00<br>Dimanche: Fermé</p>
+                            <p>Lundi - Samedi: 7h30 - 18h00<br>Dimanche: Fermé</p>
                         </div>
                     </div>
                     
                     <div class="social-links mt-4">
                         <h5>Suivez-nous</h5>
                         <div class="d-flex mt-3">
-                            <a href="#" class="me-2"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://m.me/Diesel Pump Engieneering Co.LTD." class="me-2"><i class="fab fa-facebook-f"></i></a>
                             <a href="#" class="me-2"><i class="fab fa-twitter"></i></a>
                             <a href="#" class="me-2"><i class="fab fa-instagram"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -84,8 +84,9 @@ include('inc/header.php');
             
             <div class="col-lg-8" data-aos="fade-left">
                 <div class="contact-map mb-4">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9916256937595!2d2.292292615971938!3d48.85836360866272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sTour%20Eiffel!5e0!3m2!1sfr!2sfr!4v1647697636096!5m2!1sfr!2sfr" allowfullscreen="" loading="lazy" style="height: 400px; width: 150%; border-radius: 10px;"></iframe>
-                </div>
+                    <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9916256937595!2d2.292292615971938!3d48.85836360866272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sTour%20Eiffel!5e0!3m2!1sfr!2sfr!4v1647697636096!5m2!1sfr!2sfr" allowfullscreen="" loading="lazy" style="height: 400px; width: 150%; border-radius: 10px;"></iframe>  -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8915.852416135436!2d10.416508641815398!3d5.483364025034855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105f9bdef2ee084b%3A0x6f075647d6a60719!2sDIESEL%20PUMP%20ENGENEERING%20CO.LTD.!5e0!3m2!1sfr!2scm!4v1742032722973!5m2!1sfr!2scm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
             </div>
         </div>
     </div>
@@ -162,7 +163,7 @@ include('inc/header.php');
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#contactFaqAccordion">
                             <div class="accordion-body">
-                                Vous pouvez prendre rendez-vous de plusieurs façons : en nous appelant au +33 1 23 45 67 89, en nous envoyant un email à contact@dieselpumpengineering.com, ou en remplissant le formulaire de contact sur cette page. Notre équipe vous contactera rapidement pour confirmer votre rendez-vous.
+                                Vous pouvez prendre rendez-vous de plusieurs façons : en nous appelant au +237 679737374 , en nous envoyant un email à dieselpumpengeneering@gmail.com, ou en remplissant le formulaire de contact sur cette page. Notre équipe vous contactera rapidement pour confirmer votre rendez-vous.
                             </div>
                         </div>
                     </div>
@@ -218,7 +219,7 @@ include('inc/header.php');
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#contactFaqAccordion">
                             <div class="accordion-body">
-                                Actuellement, nous disposons de trois ateliers en France : notre siège principal à Paris, ainsi que des ateliers à Lyon et Marseille. Vous pouvez contacter chaque atelier directement ou utiliser notre formulaire de contact central. Nous prévoyons d'ouvrir de nouveaux ateliers dans d'autres régions prochainement.
+                                Actuellement, nous disposons de trois ateliers au Cameroun : notre siège principal à Bafoussam, ainsi que des ateliers à Lyon et Marseille. Vous pouvez contacter chaque atelier directement ou utiliser notre formulaire de contact central. Nous prévoyons d'ouvrir de nouveaux ateliers dans d'autres régions prochainement.
                             </div>
                         </div>
                     </div>
@@ -243,11 +244,11 @@ include('inc/header.php');
                     <div class="location-icon mb-3">
                         <i class="fas fa-building fa-3x text-primary"></i>
                     </div>
-                    <h4>Paris (Siège)</h4>
-                    <p class="mb-2">123 Rue de l'Industrie, 75001 Paris</p>
-                    <p class="mb-2"><i class="fas fa-phone-alt me-2"></i> +33 1 23 45 67 89</p>
-                    <p class="mb-2"><i class="fas fa-envelope me-2"></i> paris@dieselpumpengineering.com</p>
-                    <p><i class="fas fa-clock me-2"></i> Lun-Ven: 8h-18h, Sam: 9h-13h</p>
+                    <h4>Bafoussam (Siège)</h4>
+                    <p class="mb-2">Bafoussam-Cameroun,Carrefour Saint Charles</p>
+                    <p class="mb-2"><i class="fas fa-phone-alt me-2"></i>  +237 679737374 / 694472477</p>
+                    <p class="mb-2"><i class="fas fa-envelope me-2"></i>dieselpumpengeneering@gmail.com</p>
+                    <p><i class="fas fa-clock me-2"></i> Lun-Sam:7h-18h</p>
                     <a href="https://goo.gl/maps/LINK_TO_PARIS" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>
                 </div>
             </div>
@@ -275,7 +276,7 @@ include('inc/header.php');
                     </div>
                     <h4>Marseille</h4>
                     <p class="mb-2">78 Boulevard Mécanique, 13008 Marseille</p>
-                    <p class="mb-2"><i class="fas fa-phone-alt me-2"></i> +33 4 91 87 65 43</p>
+                    <p class="mb-2"><i class="fas fa-phone-alt me-2"></i> +237 679737374 / 694472477</p>
                     <p class="mb-2"><i class="fas fa-envelope me-2"></i> marseille@dieselpumpengineering.com</p>
                     <p><i class="fas fa-clock me-2"></i> Lun-Ven: 8h-18h, Sam: 9h-13h</p>
                     <a href="https://goo.gl/maps/LINK_TO_MARSEILLE" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>

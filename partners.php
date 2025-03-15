@@ -8,7 +8,7 @@ include('inc/header.php');
 <?php include('inc/navbar.php'); ?>
 
 <!-- Page Header -->
-<section class="page-header" style="background-image: url('assets/images/partners-header.jpg');">
+<section class="page-header" style="background-image: url('assets/images/image-de-font-parterns.jpg');">
     <div class="container">
         <div class="page-title">
             <h1>Nos Partenaires</h1>
@@ -67,7 +67,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
-                        <img src="assets/images/partner-logo-1.png" alt="Bosch" class="img-fluid" style="max-height: 80px;">
+                        <img src="assets/images/partenaire/bosch-symbol.jpg" alt="Bosch" class="img-fluid" style="max-height: 80px;">
                     </div>
                     <h4 class="text-center mb-3">Bosch</h4>
                     <p>Partenaire officiel de Bosch, leader mondial dans la fabrication de systèmes d'injection diesel et essence. Nous sommes agréés Bosch Diesel Center pour la réparation et le diagnostic de tous les systèmes d'injection Bosch.</p>
@@ -90,7 +90,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
-                        <img src="assets/images/partner-logo-2.png" alt="Delphi" class="img-fluid" style="max-height: 80px;">
+                        <img src="assets/images/partenaire/Delphi-logo.png" alt="Delphi" class="img-fluid" style="max-height: 80px;">
                     </div>
                     <h4 class="text-center mb-3">Delphi Technologies</h4>
                     <p>Centre agréé Delphi Technologies pour la réparation et la maintenance des systèmes d'injection. Notre équipe est certifiée pour intervenir sur toute la gamme des produits Delphi, garantissant des réparations conformes aux spécifications d'origine.</p>
@@ -113,7 +113,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
-                        <img src="assets/images/partner-logo-3.png" alt="Denso" class="img-fluid" style="max-height: 80px;">
+                        <img src="assets/images/partenaire/unnamed (1).jpg" alt="Denso" class="img-fluid" style="max-height: 80px;">
                     </div>
                     <h4 class="text-center mb-3">Denso</h4>
                     <p>Partenaire officiel de Denso pour les systèmes d'injection. Notre collaboration avec ce fabricant japonais de renommée mondiale nous permet d'offrir des solutions de réparation et de maintenance pour tous les systèmes Denso équipant les véhicules asiatiques et européens.</p>
@@ -216,64 +216,113 @@ include('inc/header.php');
             <!-- Distributor 1 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-1.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5></h5>
+                    <img src="assets/images/partenaire/51Ks92NyjeL._AC_SX522_.jpg" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                  
                 </div>
             </div>
             
             <!-- Distributor 2 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-2.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>EuroDiesel</h5>
+                    <img src="assets/images/partenaire/580b57fcd9996e24bc43c496.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                   
                 </div>
             </div>
             
             <!-- Distributor 3 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-3.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>Parts Alliance</h5>
+                    <img src="assets/images/partenaire/768px-Renault_2009_logo.svg.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                   
                 </div>
             </div>
             
             <!-- Distributor 4 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-4.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>TechPart</h5>
+                    <img src="assets/images/partenaire/1024px-Mercedes_Benz_Logo_11.jpg" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                   
                 </div>
             </div>
             
             <!-- Distributor 5 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-5.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>Diesel Systems</h5>
+                    <img src="assets/images/partenaire/2000px-Toyota_Logo_silver.svg.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                   
                 </div>
             </div>
             
             <!-- Distributor 6 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-6.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>AutoTech</h5>
+                    <img src="assets/images/partenaire/bosch-symbol.jpg" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
                 </div>
             </div>
             
             <!-- Distributor 7 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-7.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>Injection Pro</h5>
+                    <img src="assets/images/partenaire/Delphi-logo.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
                 </div>
             </div>
             
             <!-- Distributor 8 -->
             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="distributor-item text-center p-4 bg-white rounded shadow">
-                    <img src="assets/images/distributor-8.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
-                    <h5>DieselTech</h5>
+                    <img src="assets/images/partenaire/download.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                  
+                </div>
+            </div>
+             <!-- Distributor 9 -->
+             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/howo-logo-B06696202F-seeklogo.com.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                   
+                </div>
+            </div>
+             <!-- Distributor 10 -->
+             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/iveco-logo-vector-01.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
+                </div>
+            </div>
+             <!-- Distributor 11 -->
+             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/man-diesel-turbo-logo.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
+                </div>
+            </div>
+            <!-- Distributor 12 -->
+            <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/purepng.com-volvo-logovolvovolvo-carsvolvo-automobilevolvo-stylish-carvolvo-logo-1701527683283iyzga.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                
+                </div>
+            </div>
+            <!-- Distributor 13 -->
+            <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/scania_logo_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_2794674_o.jpg" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
+                </div>
+            </div>
+             <!-- Distributor 14 -->
+             <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/unnamed (1).jpg" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                  
+                </div>
+            </div>
+            <!-- Distributor 15 -->
+            <div class="col-lg-3 col-md-4 col-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="distributor-item text-center p-4 bg-white rounded shadow">
+                    <img src="assets/images/partenaire/zexel-vector-logo.png" alt="Distributor" class="img-fluid mb-3" style="max-height: 70px;">
+                    
                 </div>
             </div>
         </div>
