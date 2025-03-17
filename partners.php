@@ -133,7 +133,7 @@ include('inc/header.php');
             </div>
             
             <!-- Partner 4 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/partner-logo-4.png" alt="Continental/VDO" class="img-fluid" style="max-height: 80px;">
@@ -155,8 +155,8 @@ include('inc/header.php');
                 </div>
             </div>
             
-            <!-- Partner 5 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+             Partner 5 -->
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/partner-logo-5.png" alt="Siemens" class="img-fluid" style="max-height: 80px;">
@@ -176,10 +176,10 @@ include('inc/header.php');
                         <a href="https://www.siemens.com/mobility" class="btn btn-outline-primary" target="_blank">Site officiel</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Partner 6 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/partner-logo-6.png" alt="Yanmar" class="img-fluid" style="max-height: 80px;">
@@ -199,7 +199,7 @@ include('inc/header.php');
                         <a href="https://www.yanmar.com" class="btn btn-outline-primary" target="_blank">Site officiel</a>
                     </div>
                 </div>
-            </div>
+            </div>  -->
         </div>
     </div>
 </section>

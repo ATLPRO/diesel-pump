@@ -219,7 +219,7 @@ include('inc/header.php');
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#contactFaqAccordion">
                             <div class="accordion-body">
-                                Actuellement, nous disposons de trois ateliers au Cameroun : notre siège principal à Bafoussam, ainsi que des ateliers à Lyon et Marseille. Vous pouvez contacter chaque atelier directement ou utiliser notre formulaire de contact central. Nous prévoyons d'ouvrir de nouveaux ateliers dans d'autres régions prochainement.
+                                Actuellement, nous disposons un seul atelier au Cameroun : notre siège principal à Bafoussam. Nous prévoyons d'ouvrir de nouveaux ateliers dans d'autres régions prochainement.
                             </div>
                         </div>
                     </div>
@@ -234,7 +234,7 @@ include('inc/header.php');
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
             <h2>Nos Ateliers</h2>
-            <p>Retrouvez-nous dans nos différentes succursales en France</p>
+            <p>Retrouvez-nous dans notre Siège au Cameroun </p>
         </div>
         
         <div class="row mt-5">
@@ -254,7 +254,7 @@ include('inc/header.php');
             </div>
             
             <!-- Lyon Location -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="location-item p-4 bg-white rounded shadow text-center h-100">
                     <div class="location-icon mb-3">
                         <i class="fas fa-building fa-3x text-primary"></i>
@@ -267,9 +267,9 @@ include('inc/header.php');
                     <a href="https://goo.gl/maps/LINK_TO_LYON" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>
                 </div>
             </div>
-            
+             -->
             <!-- Marseille Location -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="location-item p-4 bg-white rounded shadow text-center h-100">
                     <div class="location-icon mb-3">
                         <i class="fas fa-building fa-3x text-primary"></i>
@@ -281,7 +281,7 @@ include('inc/header.php');
                     <p><i class="fas fa-clock me-2"></i> Lun-Ven: 8h-18h, Sam: 9h-13h</p>
                     <a href="https://goo.gl/maps/LINK_TO_MARSEILLE" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -294,7 +294,7 @@ include('inc/header.php');
             <div class="col-lg-8 text-center text-white">
                 <h2 class="mb-4" data-aos="fade-up">Besoin d'une intervention rapide ?</h2>
                 <p class="mb-4" data-aos="fade-up" data-aos-delay="100">Notre équipe est prête à répondre à vos besoins urgents. Contactez-nous dès maintenant pour un service prioritaire.</p>
-                <a href="tel:+33123456789" class="btn btn-outline btn-lg" data-aos="fade-up" data-aos-delay="200"><i class="fas fa-phone-alt me-2"></i> Appeler Maintenant</a>
+                <a href="tel:+237679737374" class="btn btn-outline btn-lg" data-aos="fade-up" data-aos-delay="200"><i class="fas fa-phone-alt me-2"></i> Appeler Maintenant</a>
             </div>
         </div>
     </div>
