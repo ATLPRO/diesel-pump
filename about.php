@@ -300,7 +300,7 @@ include('inc/header.php');
                         <div class="carousel-item active">
                             <div class="testimonial-item text-center p-5 bg-white rounded shadow">
                                 <div class="client-img mb-3">
-                                    <img src="assets/images/client-1.jpg" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
+                                    <img src="assets/images/client.gif" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
                                 </div>
                                 <p class="testimonial-text mb-4">"Diesel Pump Engineering a sauvé notre flotte de camions lors d'une panne majeure. Leur diagnostic rapide et leur réparation efficace nous ont permis de reprendre nos activités en un temps record. Un service exceptionnel !"</p>
                                 <h4>Michel Fournier</h4>
@@ -310,7 +310,7 @@ include('inc/header.php');
                         <div class="carousel-item">
                             <div class="testimonial-item text-center p-5 bg-white rounded shadow">
                                 <div class="client-img mb-3">
-                                    <img src="assets/images/client-2.jpg" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
+                                    <img src="assets/images/client2.jpg" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
                                 </div>
                                 <p class="testimonial-text mb-4">"Je fais confiance à Diesel Pump Engineering depuis plus de 10 ans pour l'entretien de mon parc automobile. Leur expertise technique et leur professionnalisme font toute la différence. Je les recommande vivement !"</p>
                                 <h4>Nathalie Dubois</h4>
@@ -320,7 +320,7 @@ include('inc/header.php');
                         <div class="carousel-item">
                             <div class="testimonial-item text-center p-5 bg-white rounded shadow">
                                 <div class="client-img mb-3">
-                                    <img src="assets/images/client-3.jpg" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
+                                    <img src="assets/images/client3.jpg" alt="Client" class="img-fluid rounded-circle" style="width: 80px;">
                                 </div>
                                 <p class="testimonial-text mb-4">"Après avoir fait le tour des garages pour un problème complexe sur mon tracteur, Diesel Pump Engineering a été le seul à diagnostiquer correctement et à réparer efficacement mon système d'injection. Un grand merci à toute l'équipe !"</p>
                                 <h4>Antoine Legrand</h4>
