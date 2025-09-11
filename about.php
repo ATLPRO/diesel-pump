@@ -28,16 +28,12 @@ include('inc/header.php');
         <div class="row align-items-center">
             <div class="col-lg-6" data-aos="fade-right">
                 <div class="about-img position-relative">
-                    <!-- <img src="assets/images/about-main.jpg" alt="About Us" class="img-fluid rounded shadow-lg"> -->
-                    <div class="experience">
-                        <h3>20+</h3>
-                        <p>Années d'expérience</p>
-                    </div>
+                   <img src="assets/images/service/FB_IMG_16505290523004127.jpg" alt="About Us" class="img-fluid rounded shadow-lg" id="about-img1"> 
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-left">
                 <div class="about-content">
-                    <div class="section-title text-start">
+                    <div class="section-title ">
                         <h2>Notre Histoire</h2>
                     </div>
                     <p>Diesel Pump Engineering a été fondée en 2003 par une équipe de techniciens passionnés qui avaient une vision commune : créer une entreprise spécialisée offrant des services de haute qualité dans le domaine des systèmes d'injection automobile.</p>
@@ -55,9 +51,9 @@ include('inc/header.php');
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-up">
-                <div class="vision-box p-4 bg-white rounded shadow h-100">
+                <div class="vision-box p-4 bg-white text-center rounded shadow h-100">
                     <div class="icon-box mb-4 text-center">
-                        <i class="fas fa-eye fa-3x text-primary"></i>
+                        <i class="fas fa-eye fa-3x text-success"></i>
                     </div>
                     <h3 class="text-center mb-4">Notre Vision</h3>
                     <p>Devenir le partenaire de référence pour tous les professionnels et particuliers cherchant des solutions d'excellence pour leurs systèmes d'injection automobile, en alliant expertise technique, innovation et service personnalisé.</p>
@@ -65,9 +61,9 @@ include('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
-                <div class="mission-box p-4 bg-white rounded shadow h-100">
+                <div class="mission-box p-4 bg-white text-center rounded shadow h-100">
                     <div class="icon-box mb-4 text-center">
-                        <i class="fas fa-bullseye fa-3x text-primary"></i>
+                        <i class="fas fa-bullseye fa-3x text-success"></i>
                     </div>
                     <h3 class="text-center mb-4">Notre Mission</h3>
                     <p>Fournir des solutions de réparation et de maintenance de la plus haute qualité pour les systèmes d'injection, en utilisant les technologies les plus avancées et en s'appuyant sur l'expertise approfondie de notre équipe.</p>
@@ -89,7 +85,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-heart fa-3x text-primary"></i>
+                        <i class="fas fa-heart fa-3x text-success"></i>
                     </div>
                     <h4>Passion</h4>
                     <p>Notre passion pour la mécanique et la technologie nous pousse à toujours rechercher l'excellence et à rester à la pointe de l'innovation dans notre domaine.</p>
@@ -98,7 +94,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-check-double fa-3x text-primary"></i>
+                        <i class="fas fa-check-double fa-3x text-success"></i>
                     </div>
                     <h4>Qualité</h4>
                     <p>Nous ne faisons jamais de compromis sur la qualité. Chaque réparation est réalisée avec le plus grand soin, en utilisant des pièces fiables et des techniques éprouvées.</p>
@@ -107,7 +103,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-users fa-3x text-primary"></i>
+                        <i class="fas fa-users fa-3x text-success"></i>
                     </div>
                     <h4>Service Client</h4>
                     <p>Nous plaçons le client au centre de notre activité, en offrant un service personnalisé, transparent et attentif à chaque besoin spécifique.</p>
@@ -116,7 +112,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-graduation-cap fa-3x text-primary"></i>
+                        <i class="fas fa-graduation-cap fa-3x text-success"></i>
                     </div>
                     <h4>Expertise</h4>
                     <p>Notre équipe est composée de techniciens hautement qualifiés et certifiés, bénéficiant d'une formation continue pour maîtriser les technologies les plus récentes.</p>
@@ -125,7 +121,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="500">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-hands-helping fa-3x text-primary"></i>
+                        <i class="fas fa-hands-helping fa-3x text-success"></i>
                     </div>
                     <h4>Intégrité</h4>
                     <p>Nous agissons avec honnêteté et transparence dans toutes nos interactions, en proposant toujours les solutions les plus adaptées aux besoins réels de nos clients.</p>
@@ -134,7 +130,7 @@ include('inc/header.php');
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="600">
                 <div class="value-item text-center p-4 bg-white rounded shadow h-100">
                     <div class="value-icon mb-3">
-                        <i class="fas fa-leaf fa-3x text-primary"></i>
+                        <i class="fas fa-leaf fa-3x text-success"></i>
                     </div>
                     <h4>Durabilité</h4>
                     <p>Nous nous engageons à adopter des pratiques respectueuses de l'environnement, en minimisant notre impact écologique et en promouvant des solutions durables.</p>
@@ -225,36 +221,36 @@ include('inc/header.php');
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(13, 88, 19, 0.8);"></div>
     <div class="container position-relative">
         <div class="row text-center">
-            <div class="col-md-3 col-6 mb-4 mb-md-0" data-aos="fade-up">
+            <div class="col-md-4 col-6 mb-4 mb-md-0" data-aos="fade-up">
                 <div class="stat-item text-white">
                     <h2 class="counter mb-2">20</h2>
                     <p>Années d'expérience</p>
                 </div>
             </div>
-            <div class="col-md-3 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-md-4 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="100">
                 <div class="stat-item text-white">
                     <h2 class="counter mb-2">15</h2>
                     <p>Techniciens qualifiés</p>
                 </div>
             </div>
-            <div class="col-md-3 col-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-md-4 col-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="stat-item text-white">
                     <h2 class="counter mb-2">5000</h2>
                     <p>Clients satisfaits</p>
                 </div>
             </div>
-            <div class="col-md-3 col-6" data-aos="fade-up" data-aos-delay="300">
+           <!--  <div class="col-md-3 col-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="stat-item text-white">
                     <h2 class="counter mb-2">3</h2>
                     <p>Ateliers en France</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
 
 <!-- Certificates Section -->
-<section class="certificates-section section-padding">
+<!-- <section class="certificates-section section-padding">
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
             <h2>Nos Certifications</h2>
@@ -286,7 +282,7 @@ include('inc/header.php');
     </div>
 </section>
 
-<!-- Testimonials Section -->
+ Testimonials Section 
 <section class="testimonials-about-section section-padding" style="background-color: #f8f9fa;">
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
@@ -345,7 +341,7 @@ include('inc/header.php');
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Call To Action -->
 <section class="cta-section section-padding" style="background: url('assets/images/cta-bg.jpg') center/cover no-repeat; position: relative;">

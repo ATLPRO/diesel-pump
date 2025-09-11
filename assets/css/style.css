@@ -28,7 +28,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin-bottom: 20px;
 }
-
+.h6{
+  font-weight: bold;
+  font-size: 17px;
+}
 a {
   color: var(--primary-color);
   text-decoration: none;
@@ -150,7 +153,13 @@ a:hover {
   height: 50px;
   transition: all 0.3s ease;
 }
-
+.img-footer  {
+  height: 50px;
+  background: white;
+}
+#partners-logo{
+  height: 50px;
+}
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 16px;
   font-weight: 500;
@@ -358,6 +367,10 @@ a:hover {
   top: 2px;
   color: var(--primary-color);
 }
+#about-img1{
+  height: 460px;
+  width: 700px;
+}
 
 /* Services Section */
 .services-section .service-item {
@@ -428,7 +441,21 @@ a:hover {
 .services-section .service-item .read-more:hover {
   color: var(--secondary-color);
 }
-
+#service-img1{
+  height: 450px;
+  width: 700px;
+}
+#service-img2{
+  height: 400px;
+}
+#service-img5{
+  height: 400px;
+  width: 500px;
+}
+#service-img7{
+  height: 400px;
+  width: 700px;
+}
 /* Gallery Section */
 .gallery-section .gallery-filter {
   margin-bottom: 40px;
@@ -512,6 +539,9 @@ a:hover {
   background-color: var(--primary-color);
   color: var(--light-color);
 }
+#gallery-img{
+  height: 300px;
+}
 
 /* Videos Section */
 .videos-section .video-item {
@@ -574,7 +604,7 @@ a:hover {
 }
 
 .partners-section .partner-item img {
-  max-width: 150px;
+  max-width: 100px;
   margin-bottom: 20px;
   filter: grayscale(100%);
   transition: all 0.3s ease;

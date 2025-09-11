@@ -31,20 +31,20 @@ include('inc/header.php');
         </div>
         
         <!-- Gallery Filter -->
-        <div class="gallery-filter" data-aos="fade-up">
+        <!-- <div class="gallery-filter" data-aos="fade-up">
             <div class="filter-item active" data-filter="*">Tous</div>
             <div class="filter-item" data-filter=".atelier">Atelier</div>
             <div class="filter-item" data-filter=".equipements">Équipements</div>
             <div class="filter-item" data-filter=".reparations">Réparations</div>
             <div class="filter-item" data-filter=".projets">Projets Spéciaux</div>
         </div>
-        
+         -->
         <!-- Gallery Wrapper -->
-        <div class="gallery-wrapper row" data-aos="fade-up">
+        <div class="gallery-wrapper row justify-content-center" data-aos="fade-up">
             <!-- Gallery Item 1 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/Actros1.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/Actros1.jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-1.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -55,7 +55,7 @@ include('inc/header.php');
             <!-- Gallery Item 2 -->
             <div class="col-lg-4 col-md-6 gallery-item equipements">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/FB_IMG_16170200485787889.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/FB_IMG_16170200485787889.jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-2.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -66,7 +66,7 @@ include('inc/header.php');
             <!-- Gallery Item 3 -->
             <div class="col-lg-4 col-md-6 gallery-item reparations">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/IMG-20241218-WA0315.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/IMG-20241218-WA0315.jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-3.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -77,7 +77,7 @@ include('inc/header.php');
             <!-- Gallery Item 4 -->
             <div class="col-lg-4 col-md-6 gallery-item projets">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/IMG-20241218-WA0782.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/IMG-20241218-WA0782.jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-4.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -88,7 +88,7 @@ include('inc/header.php');
             <!-- Gallery Item 5 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/InjecteurCatMeui (1).jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/InjecteurCatMeui (1).jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-5.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -99,7 +99,7 @@ include('inc/header.php');
             <!-- Gallery Item 6 -->
             <div class="col-lg-4 col-md-6 gallery-item equipements">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/injecteurCommonRailBosch (22).jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/injecteurCommonRailBosch (22).jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-6.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -110,7 +110,7 @@ include('inc/header.php');
             <!-- Gallery Item 7 -->
             <div class="col-lg-4 col-md-6 gallery-item reparations">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/Isuzupump.jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/Isuzupump.jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-7.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -121,7 +121,7 @@ include('inc/header.php');
             <!-- Gallery Item 8 -->
             <div class="col-lg-4 col-md-6 gallery-item projets">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/mercedezBenz (17).jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/mercedezBenz (17).jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-8.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -132,7 +132,7 @@ include('inc/header.php');
             <!-- Gallery Item 9 -->
             <div class="col-lg-4 col-md-6 gallery-item atelier">
                 <div class="gallery-img">
-                    <img src="assets/images/galerie/PumpZexel (49).jpg" alt="Gallery Image" class="img-fluid">
+                    <img src="assets/images/galerie/PumpZexel (49).jpg" alt="Gallery Image" class="img-fluid" id="gallery-img">
                     <div class="gallery-overlay">
                         <a href="assets/images/gallery-9.jpg" class="image-popup"><i class="fas fa-search-plus"></i></a>
                         <a href="#"><i class="fas fa-link"></i></a>
@@ -266,16 +266,16 @@ include('inc/header.php');
 </section>
 
 <!-- Before & After Section -->
-<section class="before-after-section section-padding">
+<!-- <section class="before-after-section section-padding">
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
             <h2>Avant & Après</h2>
             <p>Quelques exemples de nos travaux de réparation et reconditionnement</p>
         </div>
         
-        <div class="row mt-5">
+        <div class="row mt-5"> -->
             <!-- Before & After Item 1 -->
-            <div class="col-lg-6 mb-5" data-aos="fade-up">
+           <!--  <div class="col-lg-6 mb-5" data-aos="fade-up">
                 <div class="before-after-item">
                     <div class="row">
                         <div class="col-md-6 mb-3 mb-md-0">
@@ -297,9 +297,9 @@ include('inc/header.php');
                     </div>
                 </div>
             </div>
-            
+             -->
             <!-- Before & After Item 2 -->
-            <div class="col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="100">
+            <!-- <div class="col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="100">
                 <div class="before-after-item">
                     <div class="row">
                         <div class="col-md-6 mb-3 mb-md-0">
@@ -320,10 +320,10 @@ include('inc/header.php');
                         <p>Pompe à injection défaillante avec des composants internes endommagés, entièrement reconstruite et calibrée.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Before & After Item 3 -->
-            <div class="col-lg-6 mb-5 mb-lg-0" data-aos="fade-up">
+           <!--  <div class="col-lg-6 mb-5 mb-lg-0" data-aos="fade-up">
                 <div class="before-after-item">
                     <div class="row">
                         <div class="col-md-6 mb-3 mb-md-0">
@@ -345,9 +345,9 @@ include('inc/header.php');
                     </div>
                 </div>
             </div>
-            
+             -->
             <!-- Before & After Item 4 -->
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="before-after-item">
                     <div class="row">
                         <div class="col-md-6 mb-3 mb-md-0">
@@ -372,7 +372,7 @@ include('inc/header.php');
         </div>
     </div>
 </section>
-
+ -->
 <!-- Call To Action -->
 <section class="cta-section section-padding" style="background: url('assets/images/cta-bg.jpg') center/cover no-repeat; position: relative;">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(13, 88, 19, 0.8);"></div>

@@ -33,7 +33,7 @@ include('inc/header.php');
         <div class="row mt-5">
             <div class="col-lg-6" data-aos="fade-right">
                 <div class="partners-img">
-                    <img src="assets/images/partners-overview.jpg" alt="Partenaires" class="img-fluid rounded shadow">
+                    <img src="assets/images/image-de-font-parterns.jpg" alt="Partenaires" class="img-fluid rounded shadow">
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-left">
@@ -330,16 +330,16 @@ include('inc/header.php');
 </section>
 
 <!-- Technical Partners -->
-<section class="technical-partners section-padding" style="background-color: #f8f9fa;">
+<!-- <section class="technical-partners section-padding" style="background-color: #f8f9fa;">
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
             <h2>Partenaires Techniques et Formation</h2>
             <p>Nos partenaires pour la formation et la recherche technologique</p>
         </div>
         
-        <div class="row mt-5">
+        <div class="row mt-5"> -->
             <!-- Technical Partner 1 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/technical-partner-1.png" alt="Technical Partner" class="img-fluid" style="max-height: 80px;">
@@ -356,10 +356,10 @@ include('inc/header.php');
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Technical Partner 2 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/technical-partner-2.png" alt="Technical Partner" class="img-fluid" style="max-height: 80px;">
@@ -376,10 +376,10 @@ include('inc/header.php');
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Technical Partner 3 -->
-            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="partner-item p-4 bg-white rounded shadow h-100">
                     <div class="text-center mb-4">
                         <img src="assets/images/technical-partner-3.png" alt="Technical Partner" class="img-fluid" style="max-height: 80px;">
@@ -399,10 +399,10 @@ include('inc/header.php');
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Become Partner -->
-<section class="become-partner-section section-padding">
+<!-- <section class="become-partner-section section-padding">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6" data-aos="fade-right">
@@ -429,7 +429,7 @@ include('inc/header.php');
         </div>
     </div>
 </section>
-
+ -->
 <!-- Call To Action -->
 <section class="cta-section section-padding" style="background: url('assets/images/cta-bg.jpg') center/cover no-repeat; position: relative;">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(13, 88, 19, 0.8);"></div>

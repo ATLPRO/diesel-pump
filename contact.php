@@ -230,7 +230,7 @@ include('inc/header.php');
 </section>
 
 <!-- Branch Locations -->
-<section class="branch-locations section-padding">
+<!-- <section class="branch-locations section-padding">
     <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
             <h2>Nos Ateliers</h2>
@@ -238,7 +238,7 @@ include('inc/header.php');
         </div>
         
         <div class="row mt-5">
-            <!-- Paris Location -->
+            Paris Location
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
                 <div class="location-item p-4 bg-white rounded shadow text-center h-100">
                     <div class="location-icon mb-3">
@@ -251,7 +251,7 @@ include('inc/header.php');
                     <p><i class="fas fa-clock me-2"></i> Lun-Sam:7h-18h</p>
                     <a href="https://goo.gl/maps/LINK_TO_PARIS" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Lyon Location -->
             <!-- <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
@@ -281,10 +281,9 @@ include('inc/header.php');
                     <p><i class="fas fa-clock me-2"></i> Lun-Ven: 8h-18h, Sam: 9h-13h</p>
                     <a href="https://goo.gl/maps/LINK_TO_MARSEILLE" class="btn btn-outline-primary mt-3" target="_blank">Voir sur la carte</a>
                 </div>
-            </div> -->
         </div>
     </div>
-</section>
+</section>-->
 
 <!-- Call To Action -->
 <section class="cta-section section-padding" style="background: url('assets/images/cta-bg.jpg') center/cover no-repeat; position: relative;">

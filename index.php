@@ -258,24 +258,24 @@ include('inc/header.php');
             <p>Nous collaborons avec les meilleures marques du secteur automobile</p>
         </div>
         <div class="partners-slider text-center" data-aos="fade-up">
-            <div class="row">
-                <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="100">
-                    <img src="assets/images/partenaire/bosch-symbol.jpg" alt="Partner Logo" class="img-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-2 col-6 mb-4 mb-md-0 " data-aos="fade-up" data-aos-delay="100">
+                    <img src="assets/images/partenaire/bosch-symbol.jpg" alt="Partner Logo" class="  img-fluid " id="partners-logo">
                 </div>
                 <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="200">
-                    <img src="assets/images/partenaire/1024px-Mercedes_Benz_Logo_11.jpg" alt="Partner Logo" class="img-fluid">
+                    <img src="assets/images/partenaire/1024px-Mercedes_Benz_Logo_11.jpg" alt="Partner Logo" class=" img-fluid" id="partners-logo">
                 </div>
                 <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="300">
-                    <img src="assets/images/partenaire/Delphi-logo.png" alt="Partner Logo" class="img-fluid">
+                    <img src="assets/images/partenaire/Delphi-logo.png" alt="Partner Logo" class="img-fluid" id="partners-logo">
                 </div>
                 <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="400">
-                    <img src="assets/images/partenaire/iveco-logo-vector-01.png" alt="Partner Logo" class="img-fluid">
+                    <img src="assets/images/partenaire/iveco-logo-vector-01.png" alt="Partner Logo" class="img-fluid" id="partners-logo">
                 </div>
                 <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="500">
-                    <img src="assets/images/partenaire/768px-Renault_2009_logo.svg.png" alt="Partner Logo" class="img-fluid">
+                    <img src="assets/images/partenaire/768px-Renault_2009_logo.svg.png" alt="Partner Logo" class="img-fluid" id="partners-logo">
                 </div>
                 <div class="col-md-2 col-6 mb-4 mb-md-0" data-aos="fade-up" data-aos-delay="600">
-                    <img src="assets/images/partenaire/man-diesel-turbo-logo.png" alt="Partner Logo" class="img-fluid">
+                    <img src="assets/images/partenaire/man-diesel-turbo-logo.png" alt="Partner Logo" class="img-fluid" id="partners-logo" >
                 </div>
             </div>
             <div class="text-center mt-5">

@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="footer-about">
                     <div class="footer-logo">
-                        <img src="assets/images/logo-white.png" alt="Diesel Pump Engineering" class="img-fluid">
+                        <img src="assets/images/LOGO.png" alt="Diesel Pump Engineering" class="img-footer">
                     </div>
                     <p>Diesel Pump Engineering est spécialisé dans la réparation, la maintenance et la vente de systèmes d'injection pour moteurs diesel et essence.</p>
                     <div class="social-links">

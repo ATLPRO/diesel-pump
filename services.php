@@ -30,9 +30,9 @@ include('inc/header.php');
             <p>Diesel Pump Engineering vous propose une gamme complète de services spécialisés pour garantir les performances optimales de vos systèmes d'injection.</p>
         </div>
         <div class="row mt-5">
-            <div class="col-lg-6" data-aos="fade-right">
+            <div class="col-lg-6" data-aos="fade-right ">
                 <div class="service-overview-img">
-                    <img src="assets/images/services-overview.jpg" alt="Service Overview" class="img-fluid rounded shadow">
+                    <img src="assets/images/service/FB_IMG_16118642466805826.jpg" alt="Service Overview" class="img-fluid rounded shadow" id="service-img1">
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-left">
@@ -76,7 +76,7 @@ include('inc/header.php');
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service/FB_IMG_16009444972132081.jpg" alt="Réparation d'Injecteurs" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/FB_IMG_16009444972132081.jpg" alt="Réparation d'Injecteurs" class="img-fluid rounded shadow" id="service-img2">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -172,7 +172,7 @@ include('inc/header.php');
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service/FB_IMG_16505225554164301.jpg" alt="Diagnostic Électronique" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/FB_IMG_16505225554164301.jpg" alt="Diagnostic Électronique" class="img-fluid rounded shadow" id="service-img5">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -204,7 +204,7 @@ include('inc/header.php');
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service/pumpLucas (2).jpg" alt="Vente de Pièces" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/pumpLucas (2).jpg" alt="Vente de Pièces" class="img-fluid rounded shadow" >
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -236,7 +236,7 @@ include('inc/header.php');
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <div class="service-img">
-                        <img src="assets/images/service/IMG-20241218-WA0626.jpg" alt="Formation Technique" class="img-fluid rounded shadow">
+                        <img src="assets/images/service/IMG-20241218-WA0626.jpg" alt="Formation Technique" class="img-fluid rounded shadow" id="service-img7">>
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -269,7 +269,7 @@ include('inc/header.php');
 <section class="faq-section section-padding">
     <div class="container">
         <div class="section-title" data-aos="fade-up">
-            <h2>Questions Fréquentes</h2>
+            <h2>Faqs</h2>
             <p>Réponses aux questions les plus fréquemment posées sur nos services</p>
         </div>
         <div class="row">
